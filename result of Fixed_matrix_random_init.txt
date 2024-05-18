@@ -1,0 +1,40 @@
+In this paper, we propose a general steganographic framework
+KL Divergence of  "lenet_stego_480bits0.pth" is: tensor(1.3654)
+ for neural network models, embedding secret data during the
+KL Divergence of  "lenet_stego_480bits1.pth" is: tensor(1.4951)
+ network training process to obtain a stego network for cove
+KL Divergence of  "lenet_stego_480bits2.pth" is: tensor(1.3927)
+rt communication. This method can be applied to various type
+KL Divergence of  "lenet_stego_480bits3.pth" is: tensor(1.5179)
+s of neural networks, such as neural networks that perform i
+KL Divergence of  "lenet_stego_480bits4.pth" is: tensor(1.5455)
+mage classification, image segmentation, and image generatio
+KL Divergence of  "lenet_stego_480bits5.pth" is: tensor(1.2700)
+n tasks. Additionally, our method enables data embedding in 
+KL Divergence of  "lenet_stego_480bits6.pth" is: tensor(1.6311)
+different layers of neural networks, including linear layers
+KL Divergence of  "lenet_stego_480bits7.pth" is: tensor(1.4962)
+, convolutional layers, and transpose convolutional layers. 
+KL Divergence of  "lenet_stego_480bits8.pth" is: tensor(1.3937)
+In cover networks, the hidden layer is transformed into a gr
+KL Divergence of  "lenet_stego_480bits9.pth" is: tensor(1.4747)
+aph structure to facilitate data embedding using graph convo
+KL Divergence of  "lenet_stego_480bits10.pth" is: tensor(1.4757)
+lutional networks (GCN). The parameters of the GCN can be ra
+KL Divergence of  "lenet_stego_480bits11.pth" is: tensor(1.3573)
+ndomly initialized or directly specified. The connectivity o
+KL Divergence of  "lenet_stego_480bits12.pth" is: tensor(1.4911)
+f the graph structure is predetermined collaboratively by th
+KL Divergence of  "lenet_stego_480bits13.pth" is: tensor(1.6519)
+e sender and receiver, eliminating the need to transmit the 
+KL Divergence of  "lenet_stego_480bits14.pth" is: tensor(1.5711)
+GCN parameters and graph connectivity. Using our framework, 
+KL Divergence of  "lenet_stego_480bits15.pth" is: tensor(1.3554)
+embedding and extraction of secret data can be successfully 
+KL Divergence of  "lenet_stego_480bits16.pth" is: tensor(1.5442)
+applied to different layers of the stego network. Experiment
+KL Divergence of  "lenet_stego_480bits17.pth" is: tensor(1.5082)
+al results demonstrate the effectiveness of the proposed met
+KL Divergence of  "lenet_stego_480bits18.pth" is: tensor(1.4208)
+hod in terms of capacity, security, and robustness.         
+KL Divergence of  "lenet_stego_480bits19.pth" is: tensor(1.2372)
